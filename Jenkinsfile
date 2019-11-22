@@ -1,5 +1,5 @@
 #!groovy
-piepline{
+pipeline{
 
 	agent none
 	stages{
